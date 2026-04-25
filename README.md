@@ -1,4 +1,4 @@
-## Hi, I’m Jonny 👋
+## Jonny Rylands
 
 I build healthcare software, and help make health systems interoperate.
 
