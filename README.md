@@ -1,6 +1,6 @@
 ## Hi, I’m Jonny 👋
 
-I build healthcare software, and help join health systems together.
+I build healthcare software, and join health systems together.
 
 Recently I've been building:
 
