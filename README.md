@@ -1,24 +1,17 @@
-## Hi there 👋
+## Hi, I’m Jonny 👋
 
-<!--
-**jonnyry/jonnyry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build healthcare software, and help join health systems together.
 
-Here are some ideas to get you started:
+Recently I’ve worked on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- secure data environments for health research
+- health data platforms
+- FHIR-based APIs and systems
 
-Hi, I’m Jonny 👋
+Previously:
 
-I build healthcare software.
+- [GP Connect](https://digital.nhs.uk/services/gp-connect)
+- [COVID Pass](https://www.gov.uk/guidance/nhs-covid-pass)
+- GP clinical systems
 
-Most of my work has been in large-scale health data and interoperability - FHIR, HL7, and the general art of making messy real-world systems behave themselves. I’m especially interested in practical architecture that holds up under real pressure, not just on paper.
-
-Outside of code, I tend to be making pottery, walking, or disappearing down infrastructure/data engineering rabbit holes for fun.
+Outside of code, I tend to be making pottery, walking, or tinkering with a Raspberry Pi for fun.
