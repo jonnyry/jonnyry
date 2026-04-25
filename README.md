@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I’m Jonny 👋
+
+I build healthcare software.
+
+Most of my work has been in large-scale health data and interoperability - FHIR, HL7, and the general art of making messy real-world systems behave themselves. I’m especially interested in practical architecture that holds up under real pressure, not just on paper.
+
+Outside of code, I tend to be making pottery, walking, or disappearing down infrastructure/data engineering rabbit holes for fun.
