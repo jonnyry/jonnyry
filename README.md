@@ -2,7 +2,7 @@
 
 I build healthcare software, and help join health systems together.
 
-Recently I’ve worked on:
+Recently I've been building:
 
 - secure data environments for health research
 - health data platforms
