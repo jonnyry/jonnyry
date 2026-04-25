@@ -1,6 +1,6 @@
 ## Hi, I’m Jonny 👋
 
-I build healthcare software, and join health systems together.
+I build healthcare software, and help make health systems interoperate.
 
 Recently I've been building:
 
@@ -14,4 +14,4 @@ Previously:
 - [COVID Pass](https://www.gov.uk/guidance/nhs-covid-pass)
 - GP clinical systems
 
-Outside of code, I tend to be making pottery, walking, or tinkering with a Raspberry Pi for fun.
+Outside of code, I tend to be making pottery, walking, or tinkering with a Raspberry Pi.
