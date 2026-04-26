@@ -1,8 +1,8 @@
 ## Jonny Rylands
 
-I build healthcare software, and help make health systems interoperate.
+I build software for healthcare.
 
-Recently I've been building:
+Recently I've been focused on:
 
 - secure data environments for health research
 - health data platforms
