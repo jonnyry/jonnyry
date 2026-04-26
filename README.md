@@ -2,7 +2,7 @@
 
 I build software for healthcare.
 
-Recently I've been focused on:
+Recently I've been working on:
 
 - secure data environments for health research
 - health data platforms
