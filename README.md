@@ -1,6 +1,6 @@
 ## Jonny Rylands
 
-I write software for healthcare in the UK, usually for the NHS.
+I build software for healthcare, and integrate health systems.
 
 Recently I've been working on:
 
@@ -12,6 +12,6 @@ Previously:
 
 - [GP Connect](https://digital.nhs.uk/services/gp-connect)
 - [COVID Pass](https://www.gov.uk/guidance/nhs-covid-pass)
-- [GP clinical systems](https://www.emishealth.com/)
+- GP clinical systems
 
 Outside of code, I tend to be making pottery, walking, or tinkering with a Raspberry Pi.
