@@ -20,5 +20,5 @@ Outside of code, I tend to be making pottery, walking, or tinkering with a Raspb
 
 ---
 
-https://github.com/jonnyry/pi-monitor
-https://github.com/jonnyry/everblu-cyble-reader-rpi-python
+- https://github.com/jonnyry/pi-monitor
+- https://github.com/jonnyry/everblu-cyble-reader-rpi-python
